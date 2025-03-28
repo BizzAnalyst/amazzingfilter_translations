@@ -2,7 +2,7 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{amazzingfilter}prestashop>amazzingfilter_2983b6e39f15349c63f268fba75e1a16'] = 'Nuostabus filtras';
+$_MODULE['<{amazzingfilter}prestashop>amazzingfilter_2983b6e39f15349c63f268fba75e1a16'] = 'Amazzing Filter';
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_bef294d264d041e3bc1fa3205ada7ebb'] = 'Galinga sluoksniuota navigacija su lanksčiomis nuostatomis';
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_248336101b461380a4b2391a7625493d'] = 'Išsaugota';
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_902b0d55fddef6f8d651fe1035b7d4bd'] = 'Klaida';
