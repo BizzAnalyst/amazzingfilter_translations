@@ -121,7 +121,7 @@ $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_b88590cfab1b3ff73d9b3981c35
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_8fd7a628d843acc65668d9e91de5add5'] = 'Εικονίδιο ξεκλειδωμένων φίλτρων';
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_49d68b3d7b8d87f2f8958d777aeafe10'] = 'Εικονίδιο ένδειξης φόρτωσης';
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_c9dcf09506fbe3b777fe32fa7de5923e'] = 'Εικονίδιο μείον';
-$_MODULE['<{amazzingfilter}prestashop>amazzingfilter_1e5544d55f6c9334a30e6a4bef8c3c4a']=line 'Εικονίδιο συν';
+$_MODULE['<{amazzingfilter}prestashop>amazzingfilter_1e5544d55f6c9334a30e6a4bef8c3c4a']=  'Εικονίδιο συν';
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_408096afa1b5a658751e87832b4591ca'] = 'Εικονίδιο επιλογής';
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_11f43a736d9ac1267debc97684b15be2'] = 'Εικονίδιο αποθήκευσης';
 $_MODULE['<{amazzingfilter}prestashop>amazzingfilter_eac2ea1fda7e1fd33cd9038dd9eed15d'] = 'Στοιχείο λίστας προϊόντων';
